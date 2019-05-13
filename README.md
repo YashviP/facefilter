@@ -1,6 +1,6 @@
 # FACEFILTER
 
-# INTRO
+# Intro
 
 Facial keypoints can be used in a variety of machine learning applications from face and emotion recognition to commercial applications
 like the image filters popularized by Snapchat.
